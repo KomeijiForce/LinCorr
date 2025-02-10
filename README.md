@@ -25,3 +25,27 @@ which outputs ```Tokyo [' Japan', ' Luxembourg', ' Netherlands', ' Belgium', ' N
 ### FastResilience.ipynb
 
 We provide an example notebook ```FastLinearity.ipynb``` to show the linear regression fitted by the logits before the large-scale post-training well adapts to the LM after post-training. We use the evaluation result from the ```correlation``` function to demonstrate a resilient linearity against fine-tuning.
+
+
+## 🐾 Citation
+
+```
+@article{DBLP:journals/corr/abs-2502-04520,
+  author       = {Letian Peng and
+                  Chenyang An and
+                  Shibo Hao and
+                  Chengyu Dong and
+                  Jingbo Shang},
+  title        = {Linear Correlation in {LM}'s Compositional Generalization and Hallucination},
+  journal      = {CoRR},
+  volume       = {abs/2502.04520},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2502.04520},
+  doi          = {10.48550/arXiv.2502.04520},
+  eprinttype   = {arXiv},
+  eprint       = {2502.04520},
+  timestamp    = {Mon, 10 Feb 2025 15:07:27 -0800},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2502-04520.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
