@@ -1,6 +1,6 @@
 # Linear Correlation in LM’s Compositional Generalization and Hallucination
 
-How do LMs compose knowledge for generalization? Our work provides a linear correlation viewpoint on this question.
+How do LMs compose knowledge for generalization? Our work provides a linear correlation viewpoint on this question. Link to the paper: [https://arxiv.org/abs/2502.04520](https://arxiv.org/abs/2502.04520)
 
 ![ResilientLinearity](https://github.com/user-attachments/assets/ca222d8a-842f-48cc-8c43-59ca9777c009)
 
